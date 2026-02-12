@@ -1,5 +1,5 @@
 # AWS EBS Snapshot Creation 
-This project demonstrates how to create a snapshot of an existing Amazon EBS volume in the **us-east-1 region** using the AWS Management Console.
+This project demonstrates how to create a snapshot of an existing Amazon EBS volume using the AWS Management Console.
 
 ## What is an EBS Snapshot?
 An Amazon Elastic Block Store (EBS) Snapshot is a **point-in-time backup** of an EBS volume. Snapshots are stored in Amazon S3 and are used to preserve volume data for backup, disaster recovery, migration, and automation purposes.
